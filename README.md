@@ -1,1 +1,1 @@
-# Machine-Learning-Reading-Lists
+# Machine Learning Reading List
