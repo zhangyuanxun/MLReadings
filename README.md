@@ -16,4 +16,11 @@
 ### Optimization
 * momentum - Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning (ICML). 2013. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
 
+## NLP
+### Word Embedding
+* word2vec - Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013.
+
+### Machine Translation
+
+
 ## Recommendation System
