@@ -1,6 +1,6 @@
 # Machine Learning Reading List
 
-## * Bayesian Methods
+## Bayesian Methods
 ### Monte Carlo methods
 * Neal, Radford M. "Probabilistic inference using Markov chain Monte Carlo methods." (1993). [[pdf]](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 
