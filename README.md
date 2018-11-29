@@ -1,6 +1,6 @@
 # Machine Learning Reading List
 
-## Bayesian Statistics
+## Bayesian Inference
 ### Monte Carlo methods
 * MacKay, David JC. "Introduction to monte carlo methods." Learning in graphical models. Springer, Dordrecht, 1998. 175-204. [[pdf]](http://www.inference.org.uk/mackay/erice.pdf)
 * Neal, Radford M. "Probabilistic inference using Markov chain Monte Carlo methods." (1993). [[pdf]](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
