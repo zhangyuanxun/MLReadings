@@ -29,7 +29,7 @@
 * word2vec - Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013). [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
 * word2vec - Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013. [[pdf]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 * doc2vec - Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." International Conference on Machine Learning. 2014. [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
-* Glove - Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf) [[code]](https://github.com/stanfordnlp/GloVe)
+* GloVe - Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf) [[code]](https://github.com/stanfordnlp/GloVe)
 
 ### Machine Translation
 * Attention - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
