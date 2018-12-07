@@ -18,6 +18,7 @@
 * GRU - Chung, Junyoung, et al. "Empirical evaluation of gated recurrent neural networks on sequence modeling." arXiv preprint arXiv:1412.3555 (2014). [[pdf]](https://arxiv.org/pdf/1412.3555.pdf)
 ### Optimization
 * momentum - Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning (ICML). 2013. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+* dropout - Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 ### Generative Model 
 * Variational Autoencoder (VAE) - Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
 * GANs - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [[code]](https://github.com/goodfeli/adversarial)
