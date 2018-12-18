@@ -17,7 +17,7 @@
 * GRU - Cho, Kyunghyun, et al. "On the properties of neural machine translation: Encoder-decoder approaches." arXiv preprint arXiv:1409.1259 (2014). [[pdf]](https://arxiv.org/pdf/1409.1259.pdf)
 * GRU - Chung, Junyoung, et al. "Empirical evaluation of gated recurrent neural networks on sequence modeling." arXiv preprint arXiv:1412.3555 (2014). [[pdf]](https://arxiv.org/pdf/1412.3555.pdf)
 ### Optimization
-* Xavier initialization - Glorot, Xavier, and Yoshua Bengio. "Understanding the difficulty of training deep feedforward neural networks." Proceedings of the thirteenth international conference on artificial intelligence and statistics. 2010. [[pdf]] (http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+* Xavier initialization - Glorot, Xavier, and Yoshua Bengio. "Understanding the difficulty of training deep feedforward neural networks." Proceedings of the thirteenth international conference on artificial intelligence and statistics. 2010. [[pdf]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 * momentum - Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning (ICML). 2013. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
 * dropout - Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 ### Generative Model 
