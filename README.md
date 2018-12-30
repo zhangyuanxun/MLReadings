@@ -18,6 +18,7 @@
 * GRU - Chung, Junyoung, et al. "Empirical evaluation of gated recurrent neural networks on sequence modeling." arXiv preprint arXiv:1412.3555 (2014). [[pdf]](https://arxiv.org/pdf/1412.3555.pdf)
 ### Optimization
 * Natural gradient - Amari, Shun-Ichi. "Natural gradient works efficiently in learning." Neural computation 10.2 (1998): 251-276.
+* Nemirovski, Arkadi, et al. "Robust stochastic approximation approach to stochastic programming." SIAM Journal on optimization 19.4 (2009): 1574-1609. [[pdf]](https://www2.isye.gatech.edu/~nemirovs/SIOPT_RSA_2009.pdf)
 * Xavier initialization - Glorot, Xavier, and Yoshua Bengio. "Understanding the difficulty of training deep feedforward neural networks." Proceedings of the thirteenth international conference on artificial intelligence and statistics. 2010. [[pdf]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 * Hessian free - Martens, James. "Deep learning via Hessian-free optimization." ICML. Vol. 27. 2010. [[pdf]](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)
 * Natural gradient - Pascanu, Razvan, and Yoshua Bengio. "Revisiting natural gradient for deep networks." arXiv preprint arXiv:1301.3584 (2013). [[pdf]](https://arxiv.org/pdf/1301.3584.pdf)
