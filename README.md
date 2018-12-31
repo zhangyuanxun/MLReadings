@@ -12,6 +12,8 @@
 * DTM - Blei, David M., and John D. Lafferty. "Dynamic topic models." Proceedings of the 23rd international conference on Machine learning. ACM, 2006. [[pdf]](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2006a.pdf) [[code]](https://github.com/blei-lab/dtm)
 
 ## Deep Learning
+### CNN
+* CNN - LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 ### RNN
 * LSTM - Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780. [[pdf]](https://www.bioinf.jku.at/publications/older/2604.pdf)
 * GRU - Cho, Kyunghyun, et al. "On the properties of neural machine translation: Encoder-decoder approaches." arXiv preprint arXiv:1409.1259 (2014). [[pdf]](https://arxiv.org/pdf/1409.1259.pdf)
