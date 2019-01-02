@@ -29,6 +29,7 @@
 * Hessian free - Martens, James. "Deep learning via Hessian-free optimization." ICML. Vol. 27. 2010. [[pdf]](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)
 * Natural gradient - Pascanu, Razvan, and Yoshua Bengio. "Revisiting natural gradient for deep networks." arXiv preprint arXiv:1301.3584 (2013). [[pdf]](https://arxiv.org/pdf/1301.3584.pdf)
 * He initialization - He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015. [[pdf]](https://arxiv.org/pdf/1502.01852.pdf)
+* Kfac - Martens, James, and Roger Grosse. "Optimizing neural networks with kronecker-factored approximate curvature." International conference on machine learning. 2015. [[pdf]](https://arxiv.org/pdf/1503.05671.pdf)
 * momentum - Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning (ICML). 2013. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)[[supp]](http://proceedings.mlr.press/v28/sutskever13-supp.pdf)
 * Adam - Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014). [[pdf]](https://arxiv.org/pdf/1412.6980.pdf)
 * dropout - Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
