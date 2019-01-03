@@ -55,3 +55,4 @@
 
 
 ## Recommendation System
+* PMF - Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008.[[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
