@@ -60,5 +60,5 @@
 
 
 ## Recommendation System
-* PMF - Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
 * RBM - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "Restricted Boltzmann machines for collaborative filtering." Proceedings of the 24th international conference on Machine learning. ACM, 2007. [[pdf]](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
+* PMF - Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
