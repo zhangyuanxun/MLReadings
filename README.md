@@ -39,6 +39,7 @@
 * Batch normalization - Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." arXiv preprint arXiv:1502.03167 (2015).[[pdf]](https://arxiv.org/pdf/1502.03167.pdf)
 * Bottou, Léon, Frank E. Curtis, and Jorge Nocedal. "Optimization methods for large-scale machine learning." SIAM Review 60.2 (2018): 223-311. [[pdf]](https://arxiv.org/pdf/1606.04838.pdf)
 ### Generative Model 
+* CD - Carreira-Perpinan, Miguel A., and Geoffrey E. Hinton. "On contrastive divergence learning." Aistats. Vol. 10. 2005. [[pdf]](http://www.cs.toronto.edu/~fritz/absps/cdmiguel.pdf)
 * CD-k - Hinton, Geoffrey E. "Training products of experts by minimizing contrastive divergence." Neural computation 14.8 (2002): 1771-1800. [[pdf]](http://www.cs.toronto.edu/~fritz/absps/tr00-004.pdf)
 * Deep belief nets - Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554. [[pdf]](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 * Tieleman, Tijmen. "Training restricted Boltzmann machines using approximations to the likelihood gradient." Proceedings of the 25th international conference on Machine learning. ACM, 2008. [[pdf]](http://icml2008.cs.helsinki.fi/papers/638.pdf)
