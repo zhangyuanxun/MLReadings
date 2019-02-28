@@ -47,7 +47,7 @@
 * DBM - Salakhutdinov, R. & Hinton, G.. (2009). Deep Boltzmann Machines. Proceedings of the Twelth International Conference on Artificial Intelligence and Statistics, in PMLR 5:448-455 [[pdf]](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 * Variational Autoencoder (VAE) - Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
 * GANs - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [[code]](https://github.com/goodfeli/adversarial)
-
+* Salakhutdinov, R. (2015). Learning deep generative models. Annual Review of Statistics and Its Application, 2, 361-385. [[code]](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
 ## NLP
 ### Word Embedding
 * Bengio, Yoshua, et al. "A neural probabilistic language model." Journal of machine learning research 3.Feb (2003): 1137-1155. [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
