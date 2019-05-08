@@ -51,6 +51,8 @@
 * GANs - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [[code]](https://github.com/goodfeli/adversarial)
 * Salakhutdinov, R. (2015). Learning deep generative models. Annual Review of Statistics and Its Application, 2, 361-385. [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
 ## NLP
+### General
+* Bleu - Papineni K, Roukos S, Ward T, Zhu WJ. BLEU: a method for automatic evaluation of machine translation. InProceedings of the 40th annual meeting on association for computational linguistics 2002 Jul 6 (pp. 311-318). Association for Computational Linguistics. [[pdf]] (https://www.aclweb.org/anthology/P02-1040)
 ### Word Embedding
 * Bengio, Yoshua, et al. "A neural probabilistic language model." Journal of machine learning research 3.Feb (2003): 1137-1155. [[pdf]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 * t-SNE - Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605. [[pdf]](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
