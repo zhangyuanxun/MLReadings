@@ -48,7 +48,7 @@
 * DBM - Salakhutdinov, R. & Hinton, G.. (2009). Deep Boltzmann Machines. Proceedings of the Twelth International Conference on Artificial Intelligence and Statistics, in PMLR 5:448-455 [[pdf]](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 * Rep SoftMax - Hinton, G.E. and Salakhutdinov, R.R., 2009. Replicated softmax: an undirected topic model. In Advances in neural information processing systems (pp. 1607-1614). [[pdf]](http://www.cs.toronto.edu/~fritz/absps/repsoft.pdf)
 * Variational Autoencoder (VAE) - Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013). [[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
-* GANs - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [[code]](https://github.com/goodfeli/adversarial)
+* GANs - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[[long version]](https://arxiv.org/pdf/1701.00160.pdf) [[code]](https://github.com/goodfeli/adversarial)
 * Salakhutdinov, R. (2015). Learning deep generative models. Annual Review of Statistics and Its Application, 2, 361-385. [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
 * PixelRNN - Oord, A.V.D., Kalchbrenner, N. and Kavukcuoglu, K., 2016. Pixel recurrent neural networks. arXiv preprint arXiv:1601.06759. [[pdf]](https://arxiv.org/pdf/1601.06759.pdf)
 ## NLP
