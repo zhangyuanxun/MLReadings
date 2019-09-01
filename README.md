@@ -51,6 +51,7 @@
 * GANs - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[[tutorial]](https://arxiv.org/pdf/1701.00160.pdf) [[code]](https://github.com/goodfeli/adversarial)
 * Salakhutdinov, R. (2015). Learning deep generative models. Annual Review of Statistics and Its Application, 2, 361-385. [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
 * PixelRNN - Oord, A.V.D., Kalchbrenner, N. and Kavukcuoglu, K., 2016. Pixel recurrent neural networks. arXiv preprint arXiv:1601.06759. [[pdf]](https://arxiv.org/pdf/1601.06759.pdf)
+* CycleGAN - Zhu, J.Y., Park, T., Isola, P. and Efros, A.A., 2017. Unpaired image-to-image translation using cycle-consistent adversarial networks. In Proceedings of the IEEE international conference on computer vision (pp. 2223-2232). [[pdf]](https://arxiv.org/pdf/1703.10593.pdf) [[code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 ## NLP
 ### General
 * Bleu - Papineni K, Roukos S, Ward T, Zhu WJ. BLEU: a method for automatic evaluation of machine translation. InProceedings of the 40th annual meeting on association for computational linguistics 2002 Jul 6 (pp. 311-318). Association for Computational Linguistics. [[pdf]](https://www.aclweb.org/anthology/P02-1040)
