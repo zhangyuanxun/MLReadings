@@ -64,7 +64,6 @@
 * word2vec - Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013. [[pdf]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 * doc2vec - Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." International Conference on Machine Learning. 2014. [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
 * GloVe - Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf) [[code]](https://github.com/stanfordnlp/GloVe)
-* Elmo - Peters, Matthew E., Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018). [[pdf]](https://arxiv.org/abs/1802.05365)[[code]](https://github.com/allenai/bilm-tf/)
 
 ### Sequence Model
 * seq2seq - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." In Advances in neural information processing systems, pp. 3104-3112. 2014. [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -76,7 +75,7 @@
 
 ### Transformers Based Model
 * Attention - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
-* ELMO - Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. arXiv preprint arXiv:1802.05365. [[pdf]](https://arxiv.org/pdf/1802.05365.pdf)
+* Elmo - Peters, Matthew E., Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018). [[pdf]](https://arxiv.org/abs/1802.05365)[[code]](https://github.com/allenai/bilm-tf/)
 * BERT - Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf)[[code]](https://github.com/google-research/bert)
 
 ## Recommendation System
