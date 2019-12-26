@@ -53,6 +53,7 @@
 * Salakhutdinov, R. (2015). Learning deep generative models. Annual Review of Statistics and Its Application, 2, 361-385. [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
 * PixelRNN - Oord, A.V.D., Kalchbrenner, N. and Kavukcuoglu, K., 2016. Pixel recurrent neural networks. arXiv preprint arXiv:1601.06759. [[pdf]](https://arxiv.org/pdf/1601.06759.pdf)
 * CycleGAN - Zhu, J.Y., Park, T., Isola, P. and Efros, A.A., 2017. Unpaired image-to-image translation using cycle-consistent adversarial networks. In Proceedings of the IEEE international conference on computer vision (pp. 2223-2232). [[pdf]](https://arxiv.org/pdf/1703.10593.pdf) [[code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 ## NLP
 ### General
 * Bleu - Papineni K, Roukos S, Ward T, Zhu WJ. BLEU: a method for automatic evaluation of machine translation. InProceedings of the 40th annual meeting on association for computational linguistics 2002 Jul 6 (pp. 311-318). Association for Computational Linguistics. [[pdf]](https://www.aclweb.org/anthology/P02-1040)
@@ -77,6 +78,13 @@
 * Elmo - Peters, Matthew E., Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018). [[pdf]](https://arxiv.org/abs/1802.05365)[[code]](https://github.com/allenai/bilm-tf/)
 * BERT - Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
 * XLNet - Yang, Zhilin, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, and Quoc V. Le. "XLNet: Generalized Autoregressive Pretraining for Language Understanding." arXiv preprint arXiv:1906.08237 (2019). [[pdf]](https://arxiv.org/pdf/1906.08237.pdf) [[code]](https://github.com/zihangdai/xlnet)
+
+## Graph Representation
+* Wang, Zhen, Jianwen Zhang, Jianlin Feng, and Zheng Chen. "Knowledge graph embedding by translating on hyperplanes." In Twenty-Eighth AAAI conference on artificial intelligence. 2014. [[pdf]](https://pdfs.semanticscholar.org/2a3f/862199883ceff5e3c74126f0c80770653e05.pdf)
+
+* Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016). [[pdf]](https://arxiv.org/pdf/1609.02907.pdf) [[link]](https://tkipf.github.io/graph-convolutional-networks/)
+
+* Grover, Aditya, and Jure Leskovec. "node2vec: Scalable feature learning for networks." In Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 855-864. ACM, 2016. [[pdf]](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
 ## Recommendation System
 * RBM - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "Restricted Boltzmann machines for collaborative filtering." Proceedings of the 24th international conference on Machine learning. ACM, 2007. [[pdf]](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
