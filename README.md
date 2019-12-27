@@ -41,6 +41,7 @@
 * dropout - Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 * Batch normalization - Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." arXiv preprint arXiv:1502.03167 (2015).[[pdf]](https://arxiv.org/pdf/1502.03167.pdf)
 * Bottou, Léon, Frank E. Curtis, and Jorge Nocedal. "Optimization methods for large-scale machine learning." SIAM Review 60.2 (2018): 223-311. [[pdf]](https://arxiv.org/pdf/1606.04838.pdf)
+
 ### Generative Model 
 * CD - Carreira-Perpinan, Miguel A., and Geoffrey E. Hinton. "On contrastive divergence learning." Aistats. Vol. 10. 2005. [[pdf]](http://www.cs.toronto.edu/~fritz/absps/cdmiguel.pdf)
 * CD-k - Hinton, Geoffrey E. "Training products of experts by minimizing contrastive divergence." Neural computation 14.8 (2002): 1771-1800. [[pdf]](http://www.cs.toronto.edu/~fritz/absps/tr00-004.pdf)
@@ -74,8 +75,11 @@
 * Attention - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
 * Xu, Kelvin, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhudinov, Rich Zemel, and Yoshua Bengio. "Show, attend and tell: Neural image caption generation with visual attention." In International conference on machine learning, pp. 2048-2057. 2015. [[pdf]](https://arxiv.org/pdf/1502.03044.pdf)[[code]](https://github.com/kelvinxu/arctic-captions)
 * Luong, M. T., Pham, H., & Manning, C. D. (2015). Effective approaches to attention-based neural machine translation. arXiv preprint arXiv:1508.04025. [[pdf]](https://arxiv.org/pdf/1508.04025.pdf)
-* Transformers - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
 * Elmo - Peters, Matthew E., Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018). [[pdf]](https://arxiv.org/abs/1802.05365)[[code]](https://github.com/allenai/bilm-tf/)
+
+
+### Transformers Based Model
+* Transformers - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
 * BERT - Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
 * XLNet - Yang, Zhilin, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, and Quoc V. Le. "XLNet: Generalized Autoregressive Pretraining for Language Understanding." arXiv preprint arXiv:1906.08237 (2019). [[pdf]](https://arxiv.org/pdf/1906.08237.pdf) [[code]](https://github.com/zihangdai/xlnet)
 
