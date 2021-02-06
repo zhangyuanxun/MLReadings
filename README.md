@@ -83,7 +83,7 @@
 * BERT - Devlin, J., Chang, M.W., Lee, K. and Toutanova, K., 2018. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. [[pdf]](https://arxiv.org/pdf/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
 * XLNet - Yang, Zhilin, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, and Quoc V. Le. "XLNet: Generalized Autoregressive Pretraining for Language Understanding." arXiv preprint arXiv:1906.08237 (2019). [[pdf]](https://arxiv.org/pdf/1906.08237.pdf) [[code]](https://github.com/zihangdai/xlnet)
 
-## Graph Representation
+## Graph Neural Network
 * Wang, Zhen, Jianwen Zhang, Jianlin Feng, and Zheng Chen. "Knowledge graph embedding by translating on hyperplanes." In Twenty-Eighth AAAI conference on artificial intelligence. 2014. [[pdf]](https://pdfs.semanticscholar.org/2a3f/862199883ceff5e3c74126f0c80770653e05.pdf)
 
 * Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016). [[pdf]](https://arxiv.org/pdf/1609.02907.pdf) [[link]](https://tkipf.github.io/graph-convolutional-networks/)
@@ -91,5 +91,11 @@
 * Grover, Aditya, and Jure Leskovec. "node2vec: Scalable feature learning for networks." In Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 855-864. ACM, 2016. [[pdf]](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
 ## Recommendation System
+### Theory and models
 * RBM - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "Restricted Boltzmann machines for collaborative filtering." Proceedings of the 24th international conference on Machine learning. ACM, 2007. [[pdf]](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 * PMF - Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
+
+### Ranking
+* MCRank - Li, Ping, Qiang Wu, and Christopher Burges. "Mcrank: Learning to rank using multiple classification and gradient boosting." Advances in neural information processing systems 20 (2007): 897-904. [[pdf]](https://papers.nips.cc/paper/2007/file/b86e8d03fe992d1b0e19656875ee557c-Paper.pdf)
+* LambdaRank - Quoc, C., and Viet Le. "Learning to rank with nonsmooth cost functions." Proceedings of the Advances in Neural Information Processing Systems 19 (2007): 193-200. [[pdf]](https://proceedings.neurips.cc/paper/2006/file/af44c4c56f385c43f2529f9b1b018f6a-Paper.pdf)
+
