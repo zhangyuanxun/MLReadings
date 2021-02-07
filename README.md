@@ -98,4 +98,5 @@
 ### Ranking
 * MCRank - Li, Ping, Qiang Wu, and Christopher Burges. "Mcrank: Learning to rank using multiple classification and gradient boosting." Advances in neural information processing systems 20 (2007): 897-904. [[pdf]](https://papers.nips.cc/paper/2007/file/b86e8d03fe992d1b0e19656875ee557c-Paper.pdf)
 * LambdaRank - Quoc, C., and Viet Le. "Learning to rank with nonsmooth cost functions." Proceedings of the Advances in Neural Information Processing Systems 19 (2007): 193-200. [[pdf]](https://proceedings.neurips.cc/paper/2006/file/af44c4c56f385c43f2529f9b1b018f6a-Paper.pdf)
+* Burges, Christopher JC. "From ranknet to lambdarank to lambdamart: An overview." Learning 11.23-581 (2010): 81. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)
 
