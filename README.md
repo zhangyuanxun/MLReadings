@@ -90,6 +90,8 @@
 
 * Grover, Aditya, and Jure Leskovec. "node2vec: Scalable feature learning for networks." In Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 855-864. ACM, 2016. [[pdf]](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
+* PinSage - Ying, Rex, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, and Jure Leskovec. "Graph convolutional neural networks for web-scale recommender systems." In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 974-983. 2018. [[pdf]](https://arxiv.org/pdf/1906.08237.pdf) [[code]](https://github.com/zihangdai/xlnet) [[pdf]](https://arxiv.org/pdf/1806.01973.pdf)
+
 ## Recommendation System
 ### Theory and models
 * RBM - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "Restricted Boltzmann machines for collaborative filtering." Proceedings of the 24th international conference on Machine learning. ACM, 2007. [[pdf]](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
