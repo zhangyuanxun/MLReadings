@@ -1,4 +1,4 @@
-### Embedding
+## Embedding
 * Kiros, Ryan, et al. "Skip-thought vectors." Advances in neural information processing systems. 2015. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/05.%20NLP/02.%20Paper/2015-NIPS-Skip-Thought%20Vectors.pdf)
 
 ### Text Classification
