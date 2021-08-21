@@ -5,6 +5,9 @@
 ## Classical Recommendation System
 * MF - Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009): 30-37. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2009-IEEE-Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)
 
+## Deep Match
+* MIND - Li, Chao, et al. "Multi-interest network with dynamic routing for recommendation at Tmall." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
+
 ## CTR Prediction
 * FTRL - McMahan, H. Brendan, et al. "Ad click prediction: a view from the trenches." Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. 2013. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2013-KDD-Ad%20Click%20Prediction-%20a%20View%20from%20the%20Trenches.pdf)
 
