@@ -6,13 +6,17 @@
 * MF - Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009): 30-37. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2009-IEEE-Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)
 * FM - Rendle, Steffen. "Factorization machines." 2010 IEEE International conference on data mining. IEEE, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-Factorization%20Machines.pdf)
 
-## Deep Match
+## Match and Embedding
 * MIND - Li, Chao, et al. "Multi-interest network with dynamic routing for recommendation at Tmall." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
 
-## Deep CTR
+## CTR
+
+## Ranking
+* Learn to rank - From RankNet to LambdaRank to LambdaMART: An Overview, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-From%20RankNet%20to%20LambdaRank%20to%20LambdaMART-%20An%20Overview.pdf)
+
+## Reinforcement Learning
+* LinUCB - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-WWW-A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
 
 ## Online Learning
 * FTRL - McMahan, H. Brendan, et al. "Ad click prediction: a view from the trenches." Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. 2013. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2013-KDD-Ad%20Click%20Prediction-%20a%20View%20from%20the%20Trenches.pdf)
 
-## Ranking
-* Learn to rank - From RankNet to LambdaRank to LambdaMART: An Overview, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-From%20RankNet%20to%20LambdaRank%20to%20LambdaMART-%20An%20Overview.pdf)
