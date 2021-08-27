@@ -16,6 +16,7 @@
 
 ## Reinforcement Learning
 * LinUCB - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-WWW-A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
+* Review - Aleksandrs Slivkins "Introduction to Multi-Armed Bandits", 2020 [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2020-Introduction%20to%20Multi-Armed%20Bandits.pdf)
 
 ## Online Learning
 * FTRL - McMahan, H. Brendan, et al. "Ad click prediction: a view from the trenches." Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. 2013. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2013-KDD-Ad%20Click%20Prediction-%20a%20View%20from%20the%20Trenches.pdf)
