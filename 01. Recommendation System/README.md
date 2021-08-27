@@ -10,6 +10,7 @@
 * MIND - Li, Chao, et al. "Multi-interest network with dynamic routing for recommendation at Tmall." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
 
 ## CTR
+* DeepFM - Guo, Huifeng, et al. "DeepFM: a factorization-machine based neural network for CTR prediction." arXiv preprint arXiv:1703.04247 (2017). [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2017-IJCAI-DeepFM-A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 
 ## Ranking
 * Learn to rank - From RankNet to LambdaRank to LambdaMART: An Overview, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-From%20RankNet%20to%20LambdaRank%20to%20LambdaMART-%20An%20Overview.pdf)
