@@ -16,6 +16,8 @@
 * Learn to rank - From RankNet to LambdaRank to LambdaMART: An Overview, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-From%20RankNet%20to%20LambdaRank%20to%20LambdaMART-%20An%20Overview.pdf)
 
 ## Reinforcement Learning
+* UCB - Auer, Peter, Nicolo Cesa-Bianchi, and Paul Fischer. "Finite-time analysis of the multiarmed bandit problem." Machine learning 47.2 (2002): 235-256. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2002-ICML-Finite-time%20Analysis%20of%20the%20Multiarmed%20Bandit%20Problem.pdf)
+* UCB - Auer, Peter. "Using confidence bounds for exploitation-exploration trade-offs." Journal of Machine Learning Research 3.Nov (2002): 397-422.[[]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2002-JMLR-Using%20Confidence%20Bounds%20for%20Exploitation-Exploration%20Trade-offs.pdf)
 * LinUCB - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-WWW-A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation.pdf)
 * Review - Aleksandrs Slivkins "Introduction to Multi-Armed Bandits", 2020 [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2020-Introduction%20to%20Multi-Armed%20Bandits.pdf)
 
