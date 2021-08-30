@@ -25,3 +25,6 @@
 ## Online Learning
 * FTRL - McMahan, H. Brendan, et al. "Ad click prediction: a view from the trenches." Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. 2013. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2013-KDD-Ad%20Click%20Prediction-%20a%20View%20from%20the%20Trenches.pdf)
 
+## Multi-Task Learning
+* ESMM - Ma, Xiao, et al. "Entire space multi-task model: An effective approach for estimating post-click conversion rate." The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-SIGIR-Entire%20Space%20Multi-Task%20Model-%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf)
+
