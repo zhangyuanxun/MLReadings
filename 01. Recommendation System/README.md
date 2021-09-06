@@ -27,4 +27,5 @@
 
 ## Multi-Task Learning
 * ESMM - Ma, Xiao, et al. "Entire space multi-task model: An effective approach for estimating post-click conversion rate." The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-SIGIR-Entire%20Space%20Multi-Task%20Model-%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf)
+* MMOE - Ma, Jiaqi, et al. "Modeling task relationships in multi-task learning with multi-gate mixture-of-experts." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Minin. [[pdf]]()
 
