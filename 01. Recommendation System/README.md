@@ -24,6 +24,7 @@
 * Review - Aleksandrs Slivkins "Introduction to Multi-Armed Bandits", 2020 [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2020-Introduction%20to%20Multi-Armed%20Bandits.pdf)
 
 ## Online Learning
+* Agarwal, Deepak, et al. "Click shaping to optimize multiple objectives." Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining. 2011. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2011-KDD-Click%20Shaping%20to%20Optimize%20Multiple%20Objectives.pdf)
 * Agarwal, Deepak, et al. "Personalized click shaping through lagrangian duality for online recommendation." Proceedings of the 35th international ACM SIGIR conference on Research and development in information retrieval. 2012. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2012-SIGIR-Personalized%20Click%20Shaping%20through%20Lagrangian%20Duality%20for%20Online%20Recommendation.pdf)
 * FTRL - McMahan, H. Brendan, et al. "Ad click prediction: a view from the trenches." Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. 2013. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2013-KDD-Ad%20Click%20Prediction-%20a%20View%20from%20the%20Trenches.pdf)
 
