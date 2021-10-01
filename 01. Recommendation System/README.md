@@ -1,5 +1,6 @@
 ## Deep Learning Based Recommendation System
 * YoutubeDNN - Covington, Paul, Jay Adams, and Emre Sargin. "Deep neural networks for youtube recommendations." Proceedings of the 10th ACM conference on recommender systems. 2016. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2016-RecSys-Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
+* Wide&Deep - Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st workshop on deep learning for recommender systems. 2016. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2016-Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf)
 * NCF - He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th international conference on world wide web. 2017. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2017-WWW-Neural%20Collaborative%20Filtering.pdf)
 
 ## Classical Recommendation System
