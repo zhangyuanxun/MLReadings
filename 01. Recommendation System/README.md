@@ -36,6 +36,6 @@
 
 ## Multi-Interest
 * MIND - Li, Chao, et al. "Multi-interest network with dynamic routing for recommendation at Tmall." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
-* Cen, Yukuo, et al. "Controllable multi-interest framework for recommendation." Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
+* Cen, Yukuo, et al. "Controllable multi-interest framework for recommendation." Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2020-KDD-Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
 
 
