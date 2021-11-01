@@ -15,7 +15,7 @@
 * Learn to rank - From RankNet to LambdaRank to LambdaMART: An Overview, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-From%20RankNet%20to%20LambdaRank%20to%20LambdaMART-%20An%20Overview.pdf)
 * DeepFM - Guo, Huifeng, et al. "DeepFM: a factorization-machine based neural network for CTR prediction." arXiv preprint arXiv:1703.04247 (2017). [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2017-IJCAI-DeepFM-A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 * DIN - Zhou, Guorui, et al. "Deep interest network for click-through rate prediction." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
-* xdeepFM - Lian, Jianxun, et al. "xdeepfm: Combining explicit and implicit feature interactions for recommender systems." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018. [[pdf]]()
+* xdeepFM - Lian, Jianxun, et al. "xdeepfm: Combining explicit and implicit feature interactions for recommender systems." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-KDD-xDeepFM-%20Combining%20Explicit%20and%20Implicit%20Feature%20Interactions%20for%20Recommender%20Systems.pdf)
 
 
 ## Reinforcement Learning
