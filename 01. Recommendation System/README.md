@@ -8,14 +8,14 @@
 * FM - Rendle, Steffen. "Factorization machines." 2010 IEEE International conference on data mining. IEEE, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-Factorization%20Machines.pdf)
 * FFM - Juan, Yuchin, et al. "Field-aware factorization machines for CTR prediction." Proceedings of the 10th ACM conference on recommender systems. 2016. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2016-Recsys-Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf)
 
-## Match
+## Retrieval
 * MIND - Li, Chao, et al. "Multi-interest network with dynamic routing for recommendation at Tmall." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
 
-## CTR
+## Ranking
 * DeepFM - Guo, Huifeng, et al. "DeepFM: a factorization-machine based neural network for CTR prediction." arXiv preprint arXiv:1703.04247 (2017). [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2017-IJCAI-DeepFM-A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf)
 * DIN - Zhou, Guorui, et al. "Deep interest network for click-through rate prediction." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
 
-## Ranking
+## Learn to Rank
 * Learn to rank - From RankNet to LambdaRank to LambdaMART: An Overview, 2010. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2010-From%20RankNet%20to%20LambdaRank%20to%20LambdaMART-%20An%20Overview.pdf)
 
 ## Reinforcement Learning
@@ -33,4 +33,9 @@
 ## Multi-Task Learning
 * ESMM - Ma, Xiao, et al. "Entire space multi-task model: An effective approach for estimating post-click conversion rate." The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-SIGIR-Entire%20Space%20Multi-Task%20Model-%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf)
 * MMOE - Ma, Jiaqi, et al. "Modeling task relationships in multi-task learning with multi-gate mixture-of-experts." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Minin. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/07.%20Theory/02.%20Paper/2018-KDD-Modeling%20Task%20Relationships%20in%20Multi-task%20Learning%20with%20Multi-gate%20Mixture-of-Experts.pdf)
+
+## Multi-Interest
+* MIND - Li, Chao, et al. "Multi-interest network with dynamic routing for recommendation at Tmall." Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
+* Cen, Yukuo, et al. "Controllable multi-interest framework for recommendation." Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2019-CIKM-Multi-interest%20network%20with%20dynamic%20routing%20for%20recommendation%20at%20Tmall.pdf)
+
 
