@@ -44,4 +44,4 @@
 
 ## Cross-domain Recommendation
 * Elkahky, Ali Mamdouh, Yang Song, and Xiaodong He. "A multi-view deep learning approach for cross domain user modeling in recommendation systems." Proceedings of the 24th international conference on world wide web. 2015. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2015-WWW-A%20Multi-View%20Deep%20Learning%20Approach%20for%20Cross%20Domain%20User%20Modeling%20in%20Recommendation%20Systems.pdf)
-* Hu, Guangneng, Yu Zhang, and Qiang Yang. "Conet: Collaborative cross networks for cross-domain recommendation." Proceedings of the 27th ACM international conference on information and knowledge management. 2018. [[pdf]]()
+* Hu, Guangneng, Yu Zhang, and Qiang Yang. "Conet: Collaborative cross networks for cross-domain recommendation." Proceedings of the 27th ACM international conference on information and knowledge management. 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-CIKM-CoNet-%20Collaborative%20Cross%20Networks%20for%20Cross-Domain%20Recommendation.pdf)
