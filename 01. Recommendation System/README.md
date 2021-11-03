@@ -42,4 +42,6 @@
 ## Sequential Recommendation
 * SASRec - Kang, Wang-Cheng, and Julian McAuley. "Self-attentive sequential recommendation." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018. [[pdf]](https://github.com/zhangyuanxun/MLReadings/blob/master/01.%20Recommendation%20System/03.%20Paper/2018-ICDM-Self-Attentive%20Sequential%20Recommendation.pdf)
 
+## Cross-domain Recommendation
+* Elkahky, Ali Mamdouh, Yang Song, and Xiaodong He. "A multi-view deep learning approach for cross domain user modeling in recommendation systems." Proceedings of the 24th international conference on world wide web. 2015. [[pdf]]()
 
